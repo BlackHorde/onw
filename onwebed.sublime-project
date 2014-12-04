@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/nahiyan/Dropbox/xampp/htdocs/onwebed"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/nahiyan/Dropbox/xampp/htdocs/codechef"
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Pages",
+    "prefix": "BDHLab.Onwebed",
+    "paths": [
+        {"app/controllers": "app/controllers"},
+        {"app/models": "app/models"},
+        {"app/views": "app/views"}
+    ]
+}
